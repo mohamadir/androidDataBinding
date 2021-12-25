@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666517619046",
+    "firebase_url": "https://rashad-be7aa-default-rtdb.firebaseio.com",
+    "project_id": "rashad-be7aa",
+    "storage_bucket": "rashad-be7aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666517619046:android:459f68172e69273bb248a7",
+        "android_client_info": {
+          "package_name": "com.mohmdib.fbmohmd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666517619046-hp39cm3g0krfes64a4sf9ibs6a8pf9ui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohmdib.fbmohmd",
+            "certificate_hash": "4b37542aaa51259a3bd8e3f23d289a51d1d339ea"
+          }
+        },
+        {
+          "client_id": "666517619046-hbi6tuotuc8l6vmckod91u351jp9taln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyaQxbZyrF8KZQ8xOElPBkJvfR5KmNHNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666517619046-hbi6tuotuc8l6vmckod91u351jp9taln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
